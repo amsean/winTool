@@ -8,12 +8,11 @@
 
 ## How To
 
-- Set the system environment, add the path: *C:\Users\shawn\Sean's Toolkits*.
-- Clone the repository to *C:\Users\shawn*
+- Set the system environment, add the path: *C:\Users\xxx\Sean's Toolkits*.
+- Clone the repository to *C:\Users\xxx*
 
 ```shell
-git clone git@github.com:amsean/winTool.git \
-	"C:\Users\shawn\Sean's Toolkits"
+git clone git@github.com:amsean/winTool.git "C:\Users\xxx\Sean's Toolkits"
 ```
 
 
